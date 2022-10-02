@@ -7,7 +7,7 @@
 [![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=AutoSPInstallerOnlineGithubPage)](https://github.com/IvanJosipovic/AutoSPInstallerOnlineGithubPage)
 [![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=YamlDotNet.System.Text.Json)](https://github.com/IvanJosipovic/YamlDotNet.System.Text.Json)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanjosipovic&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjosipovic&theme=dark&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjosipovic&theme=dark&layout=compact)
 
 
 <!--
