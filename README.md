@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=KubeUI)](https://github.com/IvanJosipovic/KubeUI)
+[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=ACR-SyncTool)](https://github.com/IvanJosipovic/ACR-SyncTool)
+[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=BlazorApplicationInsights)](https://github.com/IvanJosipovic/BlazorApplicationInsights)
+[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=BlazorTable)](https://github.com/IvanJosipovic/BlazorTable)
+[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=AutoSPInstallerOnlineGithubPage)](https://github.com/IvanJosipovic/AutoSPInstallerOnlineGithubPage)
+[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=YamlDotNet.System.Text.Json)](https://github.com/IvanJosipovic/YamlDotNet.System.Text.Json)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanjosipovic&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjosipovic&theme=dark&layout=compact)]
+
+
 <!--
 **IvanJosipovic/IvanJosipovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
