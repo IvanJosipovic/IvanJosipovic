@@ -1,11 +1,16 @@
-### Hi there 👋
+## Connect with me
+<div align="center">
+<a href="https://github.com/ivanjosipovic" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ivanjosipovic" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ivanjosipovic" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
 
-[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=KubeUI)](https://github.com/IvanJosipovic/KubeUI)
-[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=ACR-SyncTool)](https://github.com/IvanJosipovic/ACR-SyncTool)
-[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=BlazorApplicationInsights)](https://github.com/IvanJosipovic/BlazorApplicationInsights)
-[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=BlazorTable)](https://github.com/IvanJosipovic/BlazorTable)
-[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=AutoSPInstallerOnlineGithubPage)](https://github.com/IvanJosipovic/AutoSPInstallerOnlineGithubPage)
-[![Link](https://github-readme-stats.vercel.app/api/pin/?username=ivanjosipovic&repo=YamlDotNet.System.Text.Json)](https://github.com/IvanJosipovic/YamlDotNet.System.Text.Json)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanjosipovic&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjosipovic&theme=dark&layout=compact)
 
