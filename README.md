@@ -12,17 +12,62 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjosipovic&theme=dark&layout=compact)
 
 
-<!--
-**IvanJosipovic/IvanJosipovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Active Projects
+[KubeUI](https://github.com/IvanJosipovic/KubeUI) - Kubernetes User Interface
 
-Here are some ideas to get you started:
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/KubeUI) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/KubeUI) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/KubeUI) ![GitHub all releases](https://img.shields.io/github/downloads/IvanJosipovic/KubeUI/total)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[BlazorApplicationInsights](https://github.com/IvanJosipovic/BlazorApplicationInsights) - Application Insights for Blazor web applications
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/BlazorApplicationInsights) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/BlazorApplicationInsights) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/BlazorApplicationInsights) [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/BlazorApplicationInsights.svg)](https://www.nuget.org/packages/BlazorApplicationInsights)
+
+
+[YamlDotNet.System.Text.Json](https://github.com/IvanJosipovic/YamlDotNet.System.Text.Json) - Allows YamlDotNet to de/serialize System.Text.Json objects
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/YamlDotNet.System.Text.Json) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/YamlDotNet.System.Text.Json) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/YamlDotNet.System.Text.Json) [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/YamlDotNet.System.Text.Json.svg)](https://www.nuget.org/packages/YamlDotNet.System.Text.Json)
+
+
+[KubernetesCRDModelGen](https://github.com/IvanJosipovic/KubernetesCRDModelGen) - Kubernetes CustomResourceDefinition Model Generator for .NET
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/KubernetesCRDModelGen) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/KubernetesCRDModelGen) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/KubernetesCRDModelGen) [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/KubernetesCRDModelGen.svg)](https://www.nuget.org/packages/KubernetesCRDModelGen)
+
+
+[OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 Proxy Server for securing Kubernetes Ingress
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/OIDC-Guard) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/OIDC-Guard) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/OIDC-Guard)
+
+
+[ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/ingress-nginx-validate-jwt) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/ingress-nginx-validate-jwt) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/ingress-nginx-validate-jwt) ![Docker Pulls](https://img.shields.io/docker/pulls/ivanjosipovic/ingress-nginx-validate-jwt)
+
+
+[TSDParser](https://github.com/IvanJosipovic/TSDParser) - C# TypeScript Definition Parser
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/TSDParser) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/TSDParser) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/TSDParser) [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/TSDParser.svg)](https://www.nuget.org/packages/TSDParser)
+
+
+[JsonPathLINQ](https://github.com/IvanJosipovic/JsonPathLINQ) - JsonPath to LINQ Expressions
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/JsonPathLINQ) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/JsonPathLINQ) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/JsonPathLINQ) [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/JsonPathLINQ.svg)](https://www.nuget.org/packages/JsonPathLINQ)
+
+## Inctive Projects
+
+[ACR-SyncTool](https://github.com/IvanJosipovic/ACR-SyncTool) - Command line tool to synchronize Docker Image Registries to private Azure Container Registries
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/ACR-SyncTool) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/ACR-SyncTool) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/ACR-SyncTool) [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/ACR-SyncTool.svg)](https://www.nuget.org/packages/ACR-SyncTool)
+
+[AutoSPInstallerOnlineGithubPage](https://github.com/IvanJosipovic/AutoSPInstallerOnlineGithubPage) - AngularJS front end of http://AutoSPInstaller.com
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/AutoSPInstallerOnlineGithubPage) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/AutoSPInstallerOnlineGithubPage) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/AutoSPInstallerOnlineGithubPage)
+
+
+[BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/BlazorFileSaver) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/BlazorFileSaver) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/BlazorFileSaver) [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/BlazorFileSaver.svg)](https://www.nuget.org/packages/BlazorFileSaver)
+
+
+[BlazorTable](https://github.com/IvanJosipovic/BlazorTable) - Blazor Table Component with Sorting, Paging and Filtering
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/BlazorTable) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/BlazorTable) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/BlazorTable) [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/BlazorTable.svg)](https://www.nuget.org/packages/BlazorTable)
