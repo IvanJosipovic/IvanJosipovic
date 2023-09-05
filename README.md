@@ -52,7 +52,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/JsonPathLINQ) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/JsonPathLINQ) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/JsonPathLINQ) [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/JsonPathLINQ.svg)](https://www.nuget.org/packages/JsonPathLINQ)
 
-## Inctive Projects
+## Inactive Projects
 
 [ACR-SyncTool](https://github.com/IvanJosipovic/ACR-SyncTool) - Command line tool to synchronize Docker Image Registries to private Azure Container Registries
 
