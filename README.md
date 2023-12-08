@@ -33,7 +33,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/KubernetesCRDModelGen) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/KubernetesCRDModelGen) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/KubernetesCRDModelGen) [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/KubernetesCRDModelGen.svg)](https://www.nuget.org/packages/KubernetesCRDModelGen)
 
 
-[OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 Proxy Server for securing Kubernetes Ingress
+[OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 API Server for securing Kubernetes Ingress
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/OIDC-Guard) ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/OIDC-Guard) ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/OIDC-Guard)
 
