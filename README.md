@@ -60,22 +60,6 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/ivanjosipovic/ingress-nginx-validate-jwt)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/ingress-nginx-validate-jwt)
 
-[BlazorInteropGenerator](https://github.com/IvanJosipovic/BlazorInteropGenerator) - Blazor Interop Generator
-
-![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/BlazorInteropGenerator)
-![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/BlazorInteropGenerator)
-![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/BlazorInteropGenerator)
-[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/BlazorInteropGenerator.svg)](https://www.nuget.org/packages/BlazorInteropGenerator)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/BlazorInteropGenerator)
-
-[TSDParser](https://github.com/IvanJosipovic/TSDParser) - C# TypeScript Definition Parser
-
-![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/TSDParser)
-![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/TSDParser)
-![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/TSDParser)
-[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/TSDParser.svg)](https://www.nuget.org/packages/TSDParser)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/TSDParser)
-
 [JsonPathLINQ](https://github.com/IvanJosipovic/JsonPathLINQ) - JsonPath to LINQ Expressions
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/JsonPathLINQ)
@@ -116,3 +100,19 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/BlazorTable)
 [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/BlazorTable.svg)](https://www.nuget.org/packages/BlazorTable)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/BlazorTable)
+
+[BlazorInteropGenerator](https://github.com/IvanJosipovic/BlazorInteropGenerator) - Blazor Interop Generator
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/BlazorInteropGenerator)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/BlazorInteropGenerator)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/BlazorInteropGenerator)
+[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/BlazorInteropGenerator.svg)](https://www.nuget.org/packages/BlazorInteropGenerator)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/BlazorInteropGenerator)
+
+[TSDParser](https://github.com/IvanJosipovic/TSDParser) - C# TypeScript Definition Parser
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/TSDParser)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/TSDParser)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/TSDParser)
+[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/TSDParser.svg)](https://www.nuget.org/packages/TSDParser)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/TSDParser)
