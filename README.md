@@ -70,6 +70,13 @@
 
 ## Inactive Projects
 
+[AvaloniaTetris](https://github.com/IvanJosipovic/AvaloniaTetris) -  A Tetris game written with Avalonia 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/AvaloniaTetris)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/AvaloniaTetris)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/AvaloniaTetris)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/AvaloniaTetris)
+
 [ACR-SyncTool](https://github.com/IvanJosipovic/ACR-SyncTool) - Command line tool to synchronize Docker Image Registries to private Azure Container Registries
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/ACR-SyncTool)
