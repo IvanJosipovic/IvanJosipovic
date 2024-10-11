@@ -68,6 +68,13 @@
 [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/JsonPathLINQ.svg)](https://www.nuget.org/packages/JsonPathLINQ)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/JsonPathLINQ)
 
+[ACR-SyncTool](https://github.com/IvanJosipovic/ACR-SyncTool) - Command line tool to synchronize Docker Image Registries to private Azure Container Registries
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/ACR-SyncTool)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/ACR-SyncTool)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/ACR-SyncTool)
+[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/ACR-SyncTool.svg)](https://www.nuget.org/packages/ACR-SyncTool)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/ACR-SyncTool)
 ## Inactive Projects
 
 [AvaloniaTetris](https://github.com/IvanJosipovic/AvaloniaTetris) -  A Tetris game written with Avalonia 
@@ -76,14 +83,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/AvaloniaTetris)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/AvaloniaTetris)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/AvaloniaTetris)
-
-[ACR-SyncTool](https://github.com/IvanJosipovic/ACR-SyncTool) - Command line tool to synchronize Docker Image Registries to private Azure Container Registries
-
-![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/ACR-SyncTool)
-![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/ACR-SyncTool)
-![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/ACR-SyncTool)
-[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/ACR-SyncTool.svg)](https://www.nuget.org/packages/ACR-SyncTool)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/ACR-SyncTool)
 
 [AutoSPInstallerOnlineGithubPage](https://github.com/IvanJosipovic/AutoSPInstallerOnlineGithubPage) - AngularJS front end of http://AutoSPInstaller.com
 
