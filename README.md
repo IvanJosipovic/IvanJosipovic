@@ -75,6 +75,16 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/ACR-SyncTool)
 [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/ACR-SyncTool.svg)](https://www.nuget.org/packages/ACR-SyncTool)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/ACR-SyncTool)
+
+[alertmanager-receiver-azdo](https://github.com/IvanJosipovic/alertmanager-receiver-azdo) - Prometheus Alertmanager Receiver for Azure DevOps Ingress
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/alertmanager-receiver-azdo)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/alertmanager-receiver-azdo)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/alertmanager-receiver-azdo)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/alertmanager-receiver-azdo)
+
+
+
 ## Inactive Projects
 
 [AvaloniaTetris](https://github.com/IvanJosipovic/AvaloniaTetris) -  A Tetris game written with Avalonia 
