@@ -76,7 +76,7 @@
 [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/ACR-SyncTool.svg)](https://www.nuget.org/packages/ACR-SyncTool)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/ACR-SyncTool)
 
-[alertmanager-receiver-azdo](https://github.com/IvanJosipovic/alertmanager-receiver-azdo) - Prometheus Alertmanager Receiver for Azure DevOps Ingress
+[alertmanager-receiver-azdo](https://github.com/IvanJosipovic/alertmanager-receiver-azdo) - Prometheus Alertmanager Receiver for Azure DevOps
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/alertmanager-receiver-azdo)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/alertmanager-receiver-azdo)
