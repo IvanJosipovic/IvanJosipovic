@@ -50,6 +50,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/OIDC-Guard)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/OIDC-Guard)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/OIDC-Guard)
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2FOIDC-Guard%2Foidc-guard%25252Foidc-guard.json&query=%24.downloads&label=downloads)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/OIDC-Guard)
 
 [ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens
@@ -57,6 +58,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/ingress-nginx-validate-jwt)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/ingress-nginx-validate-jwt)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/ingress-nginx-validate-jwt)
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2Fingress-nginx-validate-jwt%2Fingress-nginx-validate-jwt%25252Fingress-nginx-validate-jwt.json&query=%24.downloads&label=downloads)
 ![Docker Pulls](https://img.shields.io/docker/pulls/ivanjosipovic/ingress-nginx-validate-jwt)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/ingress-nginx-validate-jwt)
 
@@ -81,6 +83,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/alertmanager-receiver-azdo)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/alertmanager-receiver-azdo)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/alertmanager-receiver-azdo)
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2Falertmanager-receiver-azdo%2Falertmanager-receiver-azdo%25252Falertmanager-receiver-azdo.json&query=%24.downloads&label=downloads)
+
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/alertmanager-receiver-azdo)
 
 
