@@ -84,7 +84,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/alertmanager-receiver-azdo)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/alertmanager-receiver-azdo)
 ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2Falertmanager-receiver-azdo%2Falertmanager-receiver-azdo%25252Falertmanager-receiver-azdo.json&query=%24.downloads&label=downloads)
-
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/alertmanager-receiver-azdo)
 
 
