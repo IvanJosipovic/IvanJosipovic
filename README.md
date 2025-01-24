@@ -86,13 +86,21 @@
 ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2Falertmanager-receiver-azdo%2Falertmanager-receiver-azdo%25252Falertmanager-receiver-azdo.json&query=%24.downloads&label=downloads)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/alertmanager-receiver-azdo)
 
-[Github.Release.Proxy](https://github.com/IvanJosipovic/Github.Release.Proxy) - GitHub.Release.Proxy
+[Github.Release.Proxy](https://github.com/IvanJosipovic/Github.Release.Proxy) -  Simple GitHub Release Proxy
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/Github.Release.Proxy)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/Github.Release.Proxy)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/Github.Release.Proxy)
 ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/ipitio/backage/refs/heads/index/IvanJosipovic/github.release.proxy/github.release.proxy/github.release.proxy.json&query=$.downloads&label=downloads)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/Github.Release.Proxy)
+
+[AvaloniaTerminal](https://github.com/IvanJosipovic/AvaloniaTerminal) -  Avalonia Terminal Control 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/AvaloniaTerminal)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/AvaloniaTerminal)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/AvaloniaTerminal)
+[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/AvaloniaTerminal.svg)](https://www.nuget.org/packages/AvaloniaTerminal)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/AvaloniaTerminal)
 
 ## Inactive Projects
 
