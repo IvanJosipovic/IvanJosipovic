@@ -91,7 +91,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/Github.Release.Proxy)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/Github.Release.Proxy)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/Github.Release.Proxy)
-![Downloads](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/ipitio/backage/refs/heads/index/IvanJosipovic/GitHub.Release.Proxy/github.release.proxy%252Fgithub-release-proxy.json&query=$.downloads&label=downloads)
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2FGitHub.Release.Proxy%2Fgithub.release.proxy%25252Fgithub-release-proxy.json&query=$.downloads&label=downloads)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/Github.Release.Proxy)
 
 [AvaloniaTerminal](https://github.com/IvanJosipovic/AvaloniaTerminal) -  Avalonia Terminal Control 
