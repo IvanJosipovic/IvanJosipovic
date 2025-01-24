@@ -50,7 +50,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/OIDC-Guard)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/OIDC-Guard)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/OIDC-Guard)
-![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2FGitHub.Release.Proxy%2Fgithub.release.proxy%25252Fgithub-release-proxy.json&query=$.downloads&label=downloads)
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2FOIDC-Guard%2Foidc-guard%25252Foidc-guard.json&query=%24.downloads&label=downloads)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/OIDC-Guard)
 
 [JsonPathLINQ](https://github.com/IvanJosipovic/JsonPathLINQ) - JsonPath to LINQ Expressions
