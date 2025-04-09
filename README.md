@@ -85,6 +85,14 @@
 ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2FGitHub.Release.Proxy%2Fgithub.release.proxy%25252Fgithub-release-proxy.json&query=$.downloads&label=downloads)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/Github.Release.Proxy)
 
+[aks-kargo-analysisrun-logs](https://github.com/IvanJosipovic/aks-kargo-analysisrun-logs) - Kargo AnalysisRun Log API for Azure Kubernetes Service and Log Analytics workspace
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/aks-kargo-analysisrun-logs)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/aks-kargo-analysisrun-logs)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/aks-kargo-analysisrun-logs)
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2Faks-kargo-analysisrun-logs%2Faks-kargo-analysisrun-logs%25252Faks-kargo-analysisrun-logs.json&query=$.downloads&label=downloads)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/aks-kargo-analysisrun-logs)
+
 [AvaloniaTerminal](https://github.com/IvanJosipovic/AvaloniaTerminal) -  Avalonia Terminal Control 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/AvaloniaTerminal)
