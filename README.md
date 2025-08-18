@@ -93,13 +93,20 @@
 ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fipitio%2Fbackage%2Frefs%2Fheads%2Findex%2FIvanJosipovic%2Faks-kargo-analysisrun-logs%2Faks-kargo-analysisrun-logs%25252Faks-kargo-analysisrun-logs.json&query=$.downloads&label=downloads)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/aks-kargo-analysisrun-logs)
 
-[AvaloniaTerminal](https://github.com/IvanJosipovic/AvaloniaTerminal) -  Avalonia Terminal Control 
+[AvaloniaTerminal](https://github.com/IvanJosipovic/AvaloniaTerminal) - Avalonia Terminal Control 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/AvaloniaTerminal)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/AvaloniaTerminal)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/AvaloniaTerminal)
 [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/AvaloniaTerminal.svg)](https://www.nuget.org/packages/AvaloniaTerminal)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/AvaloniaTerminal)
+
+[function-sdk-csharp](https://github.com/IvanJosipovic/function-sdk-csharp) - The C# SDK for Crossplane composition functions 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/function-sdk-csharp)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/function-sdk-csharp)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/function-sdk-csharp)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/function-sdk-csharp)
 
 ## Inactive Projects
 
