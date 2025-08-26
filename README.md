@@ -106,6 +106,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/function-sdk-csharp)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/function-sdk-csharp)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/function-sdk-csharp)
+[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/Function.SDK.CSharp.svg)](https://www.nuget.org/packages?q=Function.SDK.CSharp)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/function-sdk-csharp)
 
 ## Inactive Projects
