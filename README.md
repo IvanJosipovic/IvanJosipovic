@@ -109,10 +109,18 @@
 [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/Function.SDK.CSharp.svg)](https://www.nuget.org/packages?q=Function.SDK.CSharp)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/function-sdk-csharp)
 
-[CSharpUI.Avalonia](https://github.com/IvanJosipovic/CSharpUI.Avalonia) -  Fluent, XAML-free UI composition library for Avalonia in pure C#
+[CSharpUI.Avalonia](https://github.com/IvanJosipovic/CSharpUI.Avalonia) - Fluent, XAML-free UI composition library for Avalonia in pure C#
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/CSharpUI.Avalonia)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/CSharpUI.Avalonia)
 ![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/CSharpUI.Avalonia)
 [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/CSharpUI.Avalonia.svg)](https://www.nuget.org/packages/CSharpUI.Avalonia)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/CSharpUI.Avalonia)
+
+[Kubernetes.AspNetCore.DataProtection](https://github.com/IvanJosipovic/Kubernetes.AspNetCore.DataProtection) - Support for storing AspNetCore DataProtection keys using Kubernetes Secrets. 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/Kubernetes.AspNetCore.DataProtection)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/Kubernetes.AspNetCore.DataProtection)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/Kubernetes.AspNetCore.DataProtection)
+[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/Kubernetes.AspNetCore.DataProtection.svg)](https://www.nuget.org/packages/Kubernetes.AspNetCore.DataProtection)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/Kubernetes.AspNetCore.DataProtection)
