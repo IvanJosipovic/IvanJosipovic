@@ -79,14 +79,6 @@
 [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/AvaloniaTerminal.svg)](https://www.nuget.org/packages/AvaloniaTerminal)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/AvaloniaTerminal)
 
-[CSharpUI.Avalonia](https://github.com/IvanJosipovic/CSharpUI.Avalonia) - Fluent, XAML-free UI composition library for Avalonia in pure C#
-
-![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/CSharpUI.Avalonia)
-![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/CSharpUI.Avalonia)
-![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/CSharpUI.Avalonia)
-[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/CSharpUI.Avalonia.svg)](https://www.nuget.org/packages/CSharpUI.Avalonia)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/CSharpUI.Avalonia)
-
 ## General Projects
 
 [BlazorApplicationInsights](https://github.com/IvanJosipovic/BlazorApplicationInsights) - Application Insights for Blazor web applications
