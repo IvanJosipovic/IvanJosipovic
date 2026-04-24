@@ -71,7 +71,7 @@
 
 ## Avalonia Projects
 
-[AvaloniaTerminal](https://github.com/IvanJosipovic/AvaloniaTerminal) - Avalonia Terminal Control 
+[SvcSystems.UI.Terminal](https://github.com/IvanJosipovic/SvcSystems.UI.Terminal) - Terminal Control for Avalonia
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/AvaloniaTerminal)
 ![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/AvaloniaTerminal)
