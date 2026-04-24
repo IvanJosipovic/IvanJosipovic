@@ -73,11 +73,11 @@
 
 [SvcSystems.UI.Terminal](https://github.com/IvanJosipovic/SvcSystems.UI.Terminal) - Terminal Control for Avalonia
 
-![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/AvaloniaTerminal)
-![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/AvaloniaTerminal)
-![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/AvaloniaTerminal)
-[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/AvaloniaTerminal.svg)](https://www.nuget.org/packages/AvaloniaTerminal)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/AvaloniaTerminal)
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/SvcSystems.UI.Terminal)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/SvcSystems.UI.Terminal)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/SvcSystems.UI.Terminal)
+[![Nuget (with prereleases)](https://img.shields.io/nuget/dt/SvcSystems.UI.Terminal.svg)](https://www.nuget.org/packages/SvcSystems.UI.Terminal)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/SvcSystems.UI.Terminal)
 
 ## General Projects
 
