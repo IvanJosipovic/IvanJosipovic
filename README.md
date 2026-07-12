@@ -29,6 +29,13 @@
 [![Nuget (with prereleases)](https://img.shields.io/nuget/dt/KubernetesCRDModelGen.svg)](https://www.nuget.org/packages/KubernetesCRDModelGen)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/KubernetesCRDModelGen)
 
+[KubernetesCRDModelGen.Models](https://github.com/IvanJosipovic/KubernetesCRDModelGen.Models) - Generated C# model packages for Kubernetes CustomResourceDefinitions (CRDs).
+
+![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/KubernetesCRDModelGen.Models)
+![GitHub forks](https://img.shields.io/github/forks/IvanJosipovic/KubernetesCRDModelGen.Models)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanJosipovic/KubernetesCRDModelGen.Models)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanjosipovic/KubernetesCRDModelGen.Models)
+
 [OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 API Server for securing Kubernetes Ingress
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/IvanJosipovic/OIDC-Guard)
